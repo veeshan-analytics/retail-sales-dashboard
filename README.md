@@ -50,6 +50,7 @@ This dashboard allows decision-makers to quickly identify growth opportunities a
 ## Dataset source
 Kaggle
 https://www.kaggle.com/datasets/rohitsahoo/sales-forecasting?resource=download
+
 Key Transformation
 - All dates moved ahead by 7 years
 
